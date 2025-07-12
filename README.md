@@ -13,90 +13,46 @@
 
 ## 👨‍💻 About Me
 
-I’m a Full Stack Developer (MERN) from Coimbatore, India. I love building modern web and mobile applications with clean UI, responsive design, and efficient backend logic.
+I’m a passionate Full Stack Developer (MERN) based in Coimbatore. I specialize in building responsive web and mobile apps with performance and scalability in mind.
 
-- 💻 Tech Focus: React, React Native, Node.js, MongoDB
-- 🌱 Exploring: Next.js, Firebase
-- 📬 Mail: <a href="mailto:lbaskar220@gmail.com">lbaskar220@gmail.com</a>
-- 🤝 Open to freelance and collaboration
-
----
+- 🔧 I work with React,React Native Node.js, and MongoDB
+- 🌱 Currently exploring Next.js and Firebase
+- 📬 Reach me at: [lbaskar220@gmail.com](mailto:lbaskar220@gmail.com)
+- 🤝 Open to freelance work and collaborations
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/><br/>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/><br/>CSS3
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/><br/>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/><br/>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/><br/>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" alt="Tailwind"/><br/>Tailwind
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/><br/>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://reactnative.dev/img/header_logo.svg" width="50" alt="React Native"/><br/>React Native
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js"/><br/>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/><br/>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express"/><br/>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/><br/>MongoDB
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"/><br/>Firebase
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/><br/>Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/><br/>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/><br/>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode"/><br/>VSCode
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50" alt="Vercel"/><br/>Vercel
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="50" alt="Render"/><br/>Render
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" alt="Netlify"/><br/>Netlify
-    </td>
-  </tr>
-</table>
+### 🧠 Frontend
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### 🛠️ Backend & Dev Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
 
 ---
 
@@ -124,7 +80,7 @@ I’m a Full Stack Developer (MERN) from Coimbatore, India. I love building mode
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/baskar-l" target="_blank">
+  <a href="https://www.linkedin.com/in/baskar-l-421871268/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lbaskar220@gmail.com" target="_blank">
