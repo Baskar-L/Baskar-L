@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>Baskar L</strong></h1>
-<h3 align="center">🚀 Full Stack Developer (MERN) | Coimbatore, India</h3>
+<h3 align="center">🚀 Full Stack Developer | Coimbatore, India</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding gif" />
@@ -13,12 +13,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer specializing in building modern web and mobile applications using the **MERN Stack**. I focus on writing clean, scalable code and creating responsive, user-centric designs. I enjoy learning new technologies and collaborating with teams to deliver impactful solutions.
+I’m a Full Stack Developer (MERN) from Coimbatore, India. I love building modern web and mobile applications with clean UI, responsive design, and efficient backend logic.
 
-- 🔭 Tech Focus: React, React Native, Node.js, Express, MongoDB
-- 🌱 Currently exploring advanced **Next.js** & **Firebase**
-- 📫 Email me: <a href="mailto:lbaskar220@gmail.com">lbaskar220@gmail.com</a>
-- 🤝 Open to freelance, collaborations, and innovative projects
+- 💻 Tech Focus: React, React Native, Node.js, MongoDB
+- 🌱 Exploring: Next.js, Firebase
+- 📬 Mail: <a href="mailto:lbaskar220@gmail.com">lbaskar220@gmail.com</a>
+- 🤝 Open to freelance and collaboration
 
 ---
 
@@ -59,9 +59,6 @@ I'm a passionate Full Stack Developer specializing in building modern web and mo
   </a>
   <a href="mailto:lbaskar220@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/jegan555karthi" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
