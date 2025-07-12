@@ -56,10 +56,10 @@ I’m a passionate Full Stack Developer (MERN) based in Coimbatore. I specialize
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baskar-l-421871268/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
   </a>
   <a href="mailto:lbaskar220@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" />
   </a>
 </p>
 
