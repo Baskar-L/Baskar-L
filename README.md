@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>Baskar L</strong></h1>
-<h3 align="center">🚀 Passionate Full Stack MERN Developer from Coimbatore, India</h3>
+<h3 align="center">🚀 Full Stack Developer (MERN) | Coimbatore, India</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding gif" />
@@ -13,32 +13,19 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I build full-stack web and mobile applications using **MERN Stack**
-- 🌱 Learning new tech every day like **Next.js**, **Firebase**, **GraphQL**
-- 💼 Portfolio: [baskar.com](https://baskar.com)
-- 📫 Email: <a href="mailto:lbaskar220@gmail.com">lbaskar220@gmail.com</a>
-- 🤝 Open for freelance & collaborations
+I'm a passionate Full Stack Developer specializing in building modern web and mobile applications using the **MERN Stack**. I focus on writing clean, scalable code and creating responsive, user-centric designs. I enjoy learning new technologies and collaborating with teams to deliver impactful solutions.
+
+- 🔭 Tech Focus: React, React Native, Node.js, Express, MongoDB
+- 🌱 Currently exploring advanced **Next.js** & **Firebase**
+- 📫 Email me: <a href="mailto:lbaskar220@gmail.com">lbaskar220@gmail.com</a>
+- 🤝 Open to freelance, collaborations, and innovative projects
 
 ---
 
-## 🚀 Tech Stack
-
-#### 🔷 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,reactnative" />
-</p>
-
-#### 🔶 Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
----
-
-## 🧰 Tools I Use
+## 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,vercel,netlify,render" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,reactnative,nodejs,express,mongodb,firebase,postman,git,github,vscode,vercel,netlify,render" />
 </p>
 
 ---
@@ -64,17 +51,7 @@
 
 ---
 
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://baskar.com" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🔗 Let’s Connect
+## 🔗 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/baskar-l" target="_blank">
@@ -83,11 +60,11 @@
   <a href="mailto:lbaskar220@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/baskar_l_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://facebook.com/jegan555karthi" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">💬 “Consistency beats intensity. Keep building daily.”</h3>
+<h3 align="center">💬 “Code with purpose. Build with passion.”</h3>
