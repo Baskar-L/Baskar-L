@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm <strong>Baskar L</strong></h1>
 <h3 align="center">Full Stack Developer 👨‍💻</h3>
 <p align="center">
-  📌 <strong>Coimbatore, India</strong>
+   <strong>Coimbatore, India</strong>
 </p>
 
 <p align="center">
