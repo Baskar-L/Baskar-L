@@ -3,7 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>Baskar L</strong></h1>
-<h3 align="center">🚀 Full Stack Developer | Coimbatore, India</h3>
+<h3 align="center">Full Stack Developer 👨‍💻</h3>
+<p align="center">
+  📍 <strong>Coimbatore, India</strong>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding gif" />
