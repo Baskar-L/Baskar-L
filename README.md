@@ -2,7 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=Baskar-L&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="40" width="40" />, I'm <strong>Baskar L</strong></h1>
+<h1 align="center">
+  Hi 
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" alt="Waving hand" height="35" width="35" />, 
+  I'm <strong>Baskar L</strong>
+</h1>
 <h3 align="center">Full Stack Developer 👨‍💻</h3>
 <p align="center">
    <strong>Coimbatore, India</strong>
