@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate Full Stack Developer (MERN) based in Coimbatore. I specialize in building responsive web and mobile apps with clean UI and efficient backend logic.
+💻 Software Engineer | Full Stack (MERN) Specialist | Web & Mobile Application Developer
 
 - 🔧 Tech Focus: React, React Native, Node.js, MongoDB
 - 🌱 Learning: Next.js, Firebase
@@ -60,7 +60,7 @@ I’m a passionate Full Stack Developer (MERN) based in Coimbatore. I specialize
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/baskar-l-421871268/" target="_blank">
+  <a href="https://www.linkedin.com/in/baskar-l/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
   </a>
   <a href="mailto:lbaskar220@gmail.com" target="_blank">
