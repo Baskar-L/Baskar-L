@@ -5,7 +5,7 @@
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="40" width="40" />, I'm <strong>Baskar L</strong>
 </h1>
-<h3 align="center">Full Stack Developer 👨‍💻</h3>
+<h3 align="center">Software Engineer👨‍💻</h3>
 <p align="center">
    <strong>Coimbatore, India</strong>
 </p>
