@@ -7,7 +7,7 @@
 </h1>
 <h3 align="center">Software Engineer👨‍💻</h3>
 <p align="center">
-   <strong>Coimbatore, India</strong>
+   <strong>Tiruppur, India</strong>
 </p>
 
 <p align="center">
