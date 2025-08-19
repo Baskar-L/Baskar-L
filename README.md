@@ -20,8 +20,8 @@
 
 💻 Software Engineer | Full Stack (MERN) Specialist | Web & Mobile Application Developer
 
-- 🔧 Tech Focus: React, React Native, Node.js, MongoDB
-- 🌱 Learning: Next.js, Firebase
+- 🔧 Tech Focus: ReactJS, ReactNative, NodeJS, MongoDB
+- 🌱 Learning: NextJS, Firebase
 - 📬 Mail: [lbaskar220@gmail.com](mailto:lbaskar220@gmail.com)
 - 🤝 Open to freelance and collaborations
 
