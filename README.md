@@ -55,7 +55,6 @@
 
 <h2 align="center">💻 Tech Stack & Tools</h2>
 
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,nextjs,nodejs,express,mongodb,firebase,postman,git,github,vscode,vercel,netlify,render" />
 </p>
@@ -65,12 +64,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=GitHub%20Statistics&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Baskar-L&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Baskar-L&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baskar-L&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Baskar-L&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
@@ -115,9 +112,11 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=GitHub%20Trophies&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Baskar-L&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=Baskar-L&theme=algolia&no-frame=true&row=2&column=4"
   />
 </p>
 
