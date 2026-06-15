@@ -53,7 +53,7 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=Tech%20Stack%20%26%20Tools&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,nextjs,nodejs,express,mongodb,firebase,postman,git,github,vscode,vercel,netlify,render" />
@@ -65,7 +65,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Baskar-L&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Baskar-L&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -116,7 +116,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Baskar-L&theme=algolia&no-frame=true&row=2&column=4"
+    src="https://github-profile-trophy.vercel.app/?username=Baskar-L&theme=onestar&no-frame=true&row=2&column=4&margin-w=15"
   />
 </p>
 
