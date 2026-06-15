@@ -65,10 +65,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=GitHub%20Statistics&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Baskar-L&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Baskar-L&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Baskar-L&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baskar-L&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
