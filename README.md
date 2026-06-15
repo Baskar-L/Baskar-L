@@ -125,6 +125,4 @@
   💬 <i>"Code with purpose. Build with passion."</i>
 </h3>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile ⭐
-</p>
+
