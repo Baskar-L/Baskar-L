@@ -53,7 +53,8 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=Tech%20Stack%20%26%20Tools&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,nextjs,nodejs,express,mongodb,firebase,postman,git,github,vscode,vercel,netlify,render" />
@@ -115,10 +116,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=GitHub%20Trophies&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Baskar-L&theme=onestar&no-frame=true&row=2&column=4&margin-w=15"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Baskar-L&theme=algolia&row=2&column=4" />
 </p>
+
 
 ---
 
