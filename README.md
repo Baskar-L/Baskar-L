@@ -73,7 +73,6 @@
 <h3 align="center">💬 “Code with purpose. Build with passion.”</h3> -->
 
 
-
 <!-- ==================== PROFILE VIEWS ==================== -->
 
 <p align="center">
@@ -116,7 +115,9 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=👨‍💻+About+Me" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -129,7 +130,9 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=Tech%20Stack%20%26%20Tools&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=💻+Tech+Stack+%26+Tools" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,nextjs,nodejs,express,mongodb,firebase,postman,git,github,vscode,vercel,netlify,render" />
@@ -137,7 +140,9 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=GitHub%20Statistics&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=📊+GitHub+Statistics" />
+</p>
 
 <p align="center">
   <img
@@ -159,7 +164,9 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=GitHub%20Activity&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=⚡+GitHub+Activity" />
+</p>
 
 <p align="center">
   <img
@@ -170,7 +177,9 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=Let's%20Connect&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=🔗+Let's+Connect" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baskar-l/" target="_blank">
@@ -189,12 +198,24 @@
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=🏆+GitHub+Trophies" />
+</p>
+
+<p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Baskar-L&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=Baskar-L&theme=algolia&no-frame=true&row=2&column=4"
   />
 </p>
 
 ---
+
+<h3 align="center">
+  💬 <i>"Code with purpose. Build with passion."</i>
+</h3>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</p>
 
 <h3 align="center">
   💬 <i>"Code with purpose. Build with passion."</i>
