@@ -116,7 +116,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=80&section=header&text=GitHub%20Summary&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baskar-L&theme=tokyonight" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baskar-L&theme=tokyonight" /> -->
+ 
+  <img src="https://github-profile-trophy.vercel.app/?username=Baskar-L&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
+
+  
 </p>
 
 ---
